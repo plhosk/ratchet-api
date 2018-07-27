@@ -10,4 +10,4 @@ const schema = new mongoose.Schema({
   // itemRef: { type: mongoose.Schema.Types.ObjectId, ref: 'Item' },
 }, { capped: true, size: 1048576, max: 20 }) // Specify a capped collection with maximum 20 items
 
-module.exports = mongoose.model('LogEntry', schema)
+module.exports = mongoose.model('Log', schema)

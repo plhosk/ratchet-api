@@ -2,5 +2,12 @@
   "extends": "airbnb-base",
   "rules": {
     "semi": ["error", "never"]
+  },
+  "plugins": [
+    "mocha"
+  ],
+  "env": {
+    "node": true,
+    "mocha": true
   }
 }
