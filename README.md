@@ -9,6 +9,7 @@
 
 ## How To Start Demo App API Server
 
+1. This app is tested on Node.js 10.7.0
 1. `npm install` to install npm packages
 1. `npm start` to run server (the equivalent command is `node ./server/index.js`)
 1. Default port is 3000
