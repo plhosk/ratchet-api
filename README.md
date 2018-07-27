@@ -7,7 +7,7 @@
 - Alternatively `./mongo-background.sh` will start a server in the background
 - If you do not have a MongoDB server you can download it [here](https://www.mongodb.com/download-center#community)
 
-## Start Demo App API Server
+## How To Start Demo App API Server
 
 1. `npm install` to install npm packages
 1. `npm start` to run server (the equivalent command is `node ./server/index.js`)
