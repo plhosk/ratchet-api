@@ -19,7 +19,7 @@
 
 - `GET /items`
 - `POST /items` with body `{ title: String, column: Number }`
-- `DELETE /items/:id
+- `DELETE /items/:id`
 - `GET /log`
 
 ## Testing
